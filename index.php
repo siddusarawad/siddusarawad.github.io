@@ -18,4 +18,4 @@ global $complete;
   </div>
 </div>
 <?php } //is_front_page ENDS ?>
-<?php get_footer(); ?>
+<?php get_footer(); ?> 
